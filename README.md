@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm trinnag0 👋
 
-<!--
-**trinnag0/trinnag0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical web and mobile applications focused on education, schools, churches, and community administration.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [JavaScript Projects](https://github.com/trinnag0/javascript) - Browser games and small interactive websites
+- [St John Apostolic Church Website](https://github.com/trinnag0/StJohnApostolicChurchOfTheWholeWorld) - Church information, sermons, location, and gallery
+- [Christian Schools](https://github.com/trinnag0/Christian-schools) - Administrative template for Christian schools
+- [Projects Hub](https://github.com/trinnag0/projects-1) - Index of web projects
+- [Scholarship Bridge Admin](https://github.com/trinnag0/Project___ADMIN) - Flask administration portal for scholarships
+
+## Live websites
+
+- [JavaScript project hub](https://trinnag0.github.io/javascript/)
+- [St John Apostolic Church](https://trinnag0.github.io/StJohnApostolicChurchOfTheWholeWorld/)
+- [Christian Schools](https://christianschools.vercel.app)
